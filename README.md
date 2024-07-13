@@ -26,7 +26,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/sumeetpatil01/Sentiment-analysis-flask.git
+git clone https://github.com/Shreyarai-09/Sentiment-analysis-flask.git
 cd sentiment-analysis-flask
 Install dependencies:
 bash
